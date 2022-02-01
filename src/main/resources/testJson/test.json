@@ -1,0 +1,19 @@
+{
+  "creator" : "Józsi",
+  "profession": "gázos",
+  "items": [{"name": "radiátor",
+    "quantity": 3,
+    "unit": "db",
+    "unitPrice": "300"},
+    {
+      "name": "radiátor",
+      "quantity": 3,
+      "unit": "db",
+      "unitPrice": "300"},
+    {
+      "name": "radiátor",
+      "quantity": 3,
+      "unit": "db",
+      "unitPrice": "300"}],
+  "priceOfWork": 4500
+}
